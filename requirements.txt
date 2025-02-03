@@ -1,6 +1,5 @@
 fastapi
 pydantic
 pandas
-uvicorn  # ASGI server for FastAPI
-scikit-learn
-
+uvicorn[standard]
+scikit-learn==1.2.2
