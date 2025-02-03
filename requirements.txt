@@ -2,3 +2,5 @@ fastapi
 pydantic
 pandas
 uvicorn  # ASGI server for FastAPI
+scikit-learn
+
