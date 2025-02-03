@@ -1,5 +1,4 @@
 fastapi
 pydantic
 pandas
-pickle5  # Required for compatibility with newer Python versions
 uvicorn  # ASGI server for FastAPI
