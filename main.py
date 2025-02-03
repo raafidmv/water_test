@@ -9,7 +9,7 @@ app = FastAPI(
     )
 
 
-with open("/Users/raafid_mv/mi_pipeline/model.pkl","rb") as f:
+with open("model.pkl","rb") as f:
     model = pickle.load(f)
 
 
